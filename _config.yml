@@ -10,8 +10,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "One-Day Git Workshop"
 
+# Contact email address.
+email: organizers@swcarpentry.uio.no
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
